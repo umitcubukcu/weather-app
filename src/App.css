@@ -1,0 +1,8 @@
+.App{
+  background-color: gray;
+  display: flex;
+  width: 60%;
+  height: 500px;
+  justify-content: center;
+  margin: 0 auto;
+}
